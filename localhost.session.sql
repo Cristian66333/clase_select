@@ -1,7 +1,7 @@
 SHOW DATABASES;
+CREATE DATABASE mi_bd;
 use mi_bd;
 show tables;
-desc empleados;
 
 CREATE TABLE empleados (
     id INT AUTO_INCREMENT PRIMARY KEY,
